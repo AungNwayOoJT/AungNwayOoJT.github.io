@@ -1,2 +1,1 @@
-# AungNwayOoJT.github.io
-Coursera text repository
+_config.yml
